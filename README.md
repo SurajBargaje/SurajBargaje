@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Suraj Bargaje </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--
 **SurajBargaje/SurajBargaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ram+Ram&hearts;++;Java+Full+Stack+Developer;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
+</p>
+
+
 - 🔭 I’m currently working on Java
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - 🌱 I’m currently learning Java Full Stack Development
 - 🚀 Exploring new technologies: Always on the lookout for the latest advancements and emerging technologies in the software development and IT industry.
 - 👯 I’m looking to collaborate on an open-source project.
 - 💬 Ask me about Python, Java, and SQL.
 - 📫 How to reach me: https://www.linkedin.com/in/suraj-bargaje/
 - ⚡ Fun fact: Apart from coding, I enjoy traveling to new unexplored places.
+
 
 
 ## Contact us
