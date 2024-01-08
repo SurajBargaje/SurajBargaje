@@ -21,3 +21,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Java, and SQL.
 - 📫 How to reach me: https://www.linkedin.com/in/suraj-bargaje/
 - ⚡ Fun fact: Apart from coding, I enjoy traveling to new unexplored places.
+
+
+## Contact us
+
+<a href="https://twitter.com/Suraj_Bargaje_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://github.com/SurajBargaje" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="surajbargaje86@gmail" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
